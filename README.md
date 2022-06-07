@@ -62,3 +62,9 @@ Your final output should look something like this:
 9 years have passed
 10 years have passed
 ```
+
+## Extension
+
+Use a `for` loop to get the same output if you used a `while` loop in the
+previous stage otherwise, use a `while` loop if you used a `for` loop
+previously.
